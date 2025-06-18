@@ -1,3 +1,4 @@
+import { NavLink } from "react-router"
 
 function Navbar() {
   return (
@@ -12,7 +13,7 @@ function Navbar() {
         </div>
 
         <div>
-            <p className="bg-[#0076df] text-white px-3">Login</p>
+            <NavLink to="login" className="bg-[#0076df] text-white px-3 py-1">Login </NavLink>
         </div>
     </div>
   )
