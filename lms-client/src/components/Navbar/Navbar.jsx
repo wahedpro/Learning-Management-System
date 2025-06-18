@@ -1,7 +1,7 @@
 
 function Navbar() {
   return (
-    <div className="flex justify-between py-3 px-20 border-b-2 border-[#eeeeee]">
+    <div className="w-[90%] mx-auto flex justify-between py-3 border-b-2 border-[#eeeeee]">
         {/* logo here */}
         <h3>LearnHub</h3>
 
