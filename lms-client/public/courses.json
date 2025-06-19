@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Full-Stack Web Development",
+    "image": "https://i.ibb.co/pjV6G5T/course-1.png",
+    "author": "John Doe",
+    "price": 49.99,
+    "summary": "Learn to build modern full-stack web apps using React, Node.js, and MongoDB.",
+    "duration": { "hours": 18, "minutes": 30 },
+    "rating": 4.8,
+    "category": "Development",
+    "level": "Intermediate",
+    "language": "English",
+    "publishedDate": "2024-03-15",
+    "content": [
+      "Getting Started with Web Development",
+      "HTML & CSS Deep Dive",
+      "JavaScript Essentials",
+      "React Fundamentals & Hooks",
+      "Node.js with Express.js",
+      "MongoDB Integration",
+      "Authentication & Authorization",
+      "Deployment with Vercel"
+    ]
+  },
+  {
+    "name": "Mastering Time Management",
+    "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "author": "Alice Smith",
+    "price": 19.99,
+    "summary": "Boost your productivity with proven time management strategies.",
+    "duration": { "hours": 4, "minutes": 15 },
+    "rating": 4.6,
+    "category": "Personal Development",
+    "level": "Beginner",
+    "language": "English",
+    "publishedDate": "2023-11-10",
+    "content": [
+      "Time Mindset and Awareness",
+      "Goal Setting using SMART Method",
+      "Task Prioritization Matrix",
+      "Daily Planning & Scheduling",
+      "Overcoming Distractions",
+      "Review & Adjust for Growth"
+    ]
+  },
+  {
+    "name": "Introduction to Graphic Design",
+    "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "author": "Michael Lee",
+    "price": 29.99,
+    "summary": "Start your design journey with real-world projects and tips.",
+    "duration": { "hours": 6, "minutes": 0 },
+    "rating": 4.7,
+    "category": "Design",
+    "level": "Beginner",
+    "language": "English",
+    "publishedDate": "2024-01-20",
+    "content": [
+      "Basics of Visual Design",
+      "Color Psychology & Usage",
+      "Typography Rules",
+      "Adobe Photoshop Essentials",
+      "Designing for Web vs Print",
+      "Logo & Brand Identity Project"
+    ]
+  },
+  {
+    "name": "Python for Data Science",
+    "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "author": "Sarah Kim",
+    "price": 39.99,
+    "summary": "Analyze data and build models using Python and essential libraries.",
+    "duration": { "hours": 12, "minutes": 45 },
+    "rating": 4.9,
+    "category": "Data Science",
+    "level": "Intermediate",
+    "language": "English",
+    "publishedDate": "2024-02-12",
+    "content": [
+      "Python Refresher",
+      "Data Manipulation with Pandas",
+      "Numerical Computation using NumPy",
+      "Data Visualization with Matplotlib & Seaborn",
+      "Data Cleaning Techniques",
+      "Intro to Machine Learning with scikit-learn"
+    ]
+  },
+  {
+    "name": "Digital Marketing Essentials",
+    "image": "https://i.ibb.co/xJG1S3x/course-2.png",
+    "author": "David Johnson",
+    "price": 24.99,
+    "summary": "Master SEO, social media, email marketing, and analytics in one course.",
+    "duration": { "hours": 8, "minutes": 0 },
+    "rating": 4.5,
+    "category": "Marketing",
+    "level": "Beginner",
+    "language": "English",
+    "publishedDate": "2023-10-05",
+    "content": [
+      "Understanding the Digital Landscape",
+      "Search Engine Optimization (SEO)",
+      "Social Media Strategy",
+      "Email Campaign Building",
+      "Google Ads & Analytics",
+      "Growth Hacking Tips"
+    ]
+  },
+  {
+    "name": "Freelancing 101: Start & Grow",
+    "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "author": "Nina Patel",
+    "price": 14.99,
+    "summary": "Learn to start freelancing, get clients, and build a sustainable business.",
+    "duration": { "hours": 5, "minutes": 30 },
+    "rating": 4.4,
+    "category": "Business",
+    "level": "Beginner",
+    "language": "English",
+    "publishedDate": "2024-04-08",
+    "content": [
+      "Getting Started with Freelancing",
+      "Top Freelancing Platforms",
+      "Profile & Portfolio Creation",
+      "Pitching to Clients",
+      "Setting Rates & Invoicing",
+      "Time Management as a Freelancer"
+    ]
+  }
+]

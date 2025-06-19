@@ -1,4 +1,5 @@
 import Banner from '../components/Banner'
+import PopularCourses from '../components/PopularCourses'
 import WhyChooseUs from '../components/WhyChooseUS'
 
 function HomePage() {
@@ -6,6 +7,7 @@ function HomePage() {
     <div>
         <Banner/>
         <WhyChooseUs/>
+        <PopularCourses/>
     </div>
   )
 }

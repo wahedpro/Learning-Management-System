@@ -47,7 +47,7 @@ const WhyChooseUs = () => {
         </div>
 
         {/* Happy Learners */}
-        <div className="flex flex-col w-[30%]">
+        <div className="flex flex-col gap-2 w-[30%]">
           <div className="flex">
             <img
               src="https://i.pravatar.cc/30?img=10"
@@ -66,9 +66,9 @@ const WhyChooseUs = () => {
               className="w-8 h-8 rounded-full"
             />
           </div>
-          <div className="flex items-center gap-1">
-            <p className="text-xl font-semibold text-purple-700">+12K</p>
-            <p className="text-gray-600">happy learners</p>
+          <div className="flex items-center gap-2">
+            <p className="text-xl font-semibold text-blue-700">+12K</p>
+            <p className="text-gray-700">happy learners</p>
           </div>
         </div>
       </div>
