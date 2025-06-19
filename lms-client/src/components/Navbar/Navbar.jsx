@@ -4,11 +4,11 @@ function Navbar() {
   return (
     <div className="w-[90%] mx-auto flex justify-between py-3 border-b-2 border-[#eeeeee]">
         {/* logo here */}
-        <h3>LearnHub</h3>
+        <NavLink to='/'>LearnHub</NavLink>
 
         {/* menu here */}
         <div className="flex gap-5">
-           <p>Home</p>
+            <NavLink to='/'>Home</NavLink>
            <p>all courses</p>
         </div>
 
