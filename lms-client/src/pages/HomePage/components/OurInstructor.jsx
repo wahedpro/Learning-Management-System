@@ -3,7 +3,7 @@ import React from 'react'
 function OurInstructor() {
   return (
     <section className="w-[90%] mx-auto mb-20">
-        {/* Section Heading */}
+      {/* Section Heading */}
       <div className="flex flex-col justify-center mb-10">
         <div className="w-fit mx-auto mb-3 flex gap-1 items-center justify-center bg-[#edeef3] text-blue-600 rounded-4xl py-1 px-4">
           <p>▪</p>
@@ -26,7 +26,7 @@ function OurInstructor() {
             <p>rating 4.5</p>
           </div>
         </div>
-        <div className='border p-2 rounded-tl-4xl'>
+        <div className='border p-2'>
           <img className='rounded-4xl' src="https://i.ibb.co/DKnLtVb/wahedpro.jpg" alt="" />
           <h3 className='text-center text-xl font-bold'>Wahedul Islam</h3>
           <h4 className='text-center'>Flutter App Developer</h4>
@@ -35,7 +35,7 @@ function OurInstructor() {
             <p>rating 4.5</p>
           </div>
         </div>
-        <div className='border p-2 rounded-tl-4xl'>
+        <div className='border p-2'>
           <img className='rounded-4xl' src="https://i.ibb.co/DKnLtVb/wahedpro.jpg" alt="" />
           <h3 className='text-center text-xl font-bold'>Wahedul Islam</h3>
           <h4 className='text-center'>Flutter App Developer</h4>
