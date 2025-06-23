@@ -9,7 +9,7 @@ function Navbar() {
         {/* menu here */}
         <div className="flex gap-5">
             <NavLink to='/'>Home</NavLink>
-           <p>all courses</p>
+            <NavLink to='allcourses'>All Courses</NavLink>
         </div>
 
         <div>

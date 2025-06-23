@@ -10,8 +10,8 @@ function Banner() {
         <p>Achieve your academic goals with personalized, one-on-one tutoring from top experts in the field</p>
         
         <div className='flex gap-5 justify-center items-center'>
-            <NavLink className='bg-black hover:bg-blue-600 transition duration-200 text-white border-2 px-5 py-3 rounded-4xl'>Explore all Courses</NavLink>
-            <NavLink className='border px-5 py-3 rounded-4xl flex items-center gap-1 hover:text-blue-600'> <FaPlay size={15}/> See Demo</NavLink>
+            <NavLink to='allcourses' className='bg-black hover:bg-blue-600 transition duration-200 text-white border-2 px-5 py-3 rounded-4xl'>Explore all Courses</NavLink>
+            <NavLink  className='border px-5 py-3 rounded-4xl flex items-center gap-1 hover:text-blue-600'> <FaPlay size={15}/> See Demo</NavLink>
         </div>
 
     </section>
