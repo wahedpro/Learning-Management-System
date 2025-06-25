@@ -1,6 +1,8 @@
 [
   {
+    "id": 1,
     "name": "Full-Stack Web Development",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "image": "https://i.ibb.co/pjV6G5T/course-1.png",
     "author": "John Doe",
     "price": 49.99,
@@ -23,8 +25,10 @@
     ]
   },
   {
+    "id": 2,
     "name": "Mastering Time Management",
     "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "author": "Alice Smith",
     "price": 19.99,
     "summary": "Boost your productivity with proven time management strategies.",
@@ -44,8 +48,10 @@
     ]
   },
   {
+    "id": 3,
     "name": "Introduction to Graphic Design",
     "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "author": "Michael Lee",
     "price": 29.99,
     "summary": "Start your design journey with real-world projects and tips.",
@@ -65,8 +71,10 @@
     ]
   },
   {
+    "id": 4,
     "name": "Python for Data Science",
     "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "author": "Sarah Kim",
     "price": 39.99,
     "summary": "Analyze data and build models using Python and essential libraries.",
@@ -86,8 +94,10 @@
     ]
   },
   {
+    "id": 5,
     "name": "Digital Marketing Essentials",
     "image": "https://i.ibb.co/xJG1S3x/course-2.png",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "author": "David Johnson",
     "price": 24.99,
     "summary": "Master SEO, social media, email marketing, and analytics in one course.",
@@ -107,8 +117,10 @@
     ]
   },
   {
+    "id": 6,
     "name": "Freelancing 101: Start & Grow",
     "image": "https://i.ibb.co/gwxnJWF/3.png",
+    "introvideo": "https://www.youtube.com/watch?v=DJGGUCGxdAo&ab_channel=WpodzunDesigns",
     "author": "Nina Patel",
     "price": 14.99,
     "summary": "Learn to start freelancing, get clients, and build a sustainable business.",

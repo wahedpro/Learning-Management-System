@@ -1,4 +1,4 @@
-import React from "react";
+import { NavLink } from "react-router";
 
 const CourseCard = ({ course }) => {
   const totalMinutes = course.duration.hours * 60 + course.duration.minutes;
@@ -36,7 +36,7 @@ const CourseCard = ({ course }) => {
 
       {/* Enroll Button */}
       <button className="w-full bg-black text-white py-2 rounded hover:bg-gray-800">
-        Enroll
+        <NavLink to={`/coursedetails/${course.id}`}>Enroll</NavLink>
       </button>
     </div>
   );

@@ -4,6 +4,7 @@ import LoginPage from "../pages/LoginPage/LoginPage";
 import RegisterPage from "../pages/RegisterPage/RegisterPage";
 import HomePage from "../pages/HomePage/Page/HomePage";
 import AllCourses from "../pages/AllCoursesPage/AllCourses";
+import CourseDetails from "../pages/CourseDetailsPage/CourseDetails";
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,11 @@ const router = createBrowserRouter([
       {
         path: "allcourses",
         element: <AllCourses/>
+      },
+      {
+        path: "coursedetails/:id",
+        element: <CourseDetails/>,
+        loader:() => fetch('/courses.json')
       }
     ]
   },
