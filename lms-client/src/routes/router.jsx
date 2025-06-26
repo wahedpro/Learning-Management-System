@@ -5,6 +5,8 @@ import RegisterPage from "../pages/RegisterPage/RegisterPage";
 import HomePage from "../pages/HomePage/Page/HomePage";
 import AllCourses from "../pages/AllCoursesPage/AllCourses";
 import CourseDetails from "../pages/CourseDetailsPage/CourseDetails";
+import StudentLayout from "../layouts/StudentLayout";
+import StudentProfilePage from "../pages/Dashboard/Student/StudentProfilePage/StudentProfilePage";
 
 const router = createBrowserRouter([
   {
@@ -34,6 +36,16 @@ const router = createBrowserRouter([
       }
     ]
   },
+  {
+    path: "studentDashboard",
+    element: <StudentLayout></StudentLayout>,
+    children:[
+      {
+        path:"studentProfile",
+        element: <StudentProfilePage/>
+      }
+    ]
+  }
 ]);
 
 export default router;
